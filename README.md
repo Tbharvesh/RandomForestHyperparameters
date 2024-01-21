@@ -1,5 +1,5 @@
-###RandomForestHyperparameters
-##Overview
+### RandomForestHyperparameters
+## Overview
 
 This GitHub repository contains a Python project aimed at optimizing and tuning hyperparameters for Random Forest models. 
 The dataset used for building a Random Forest Classifier is : titanic.csv
